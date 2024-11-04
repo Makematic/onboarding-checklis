@@ -109,7 +109,7 @@
     </div>
 
     <div class="section">
-        <h3>Editing Workflow</h3>
+        <h3>Workflow</h3>
         <ul>
             <li><input type="checkbox"> Open Adobe template app after syncing.</li>
             <li><input type="checkbox"> Import the synced media from Google Drive.</li>
@@ -135,7 +135,7 @@
     </div>
 
     <div class="section">
-        <h3>Post-Editing Cleanup</h3>
+        <h3>Backing Up to the Vault</h3>
         <ul>
             <li><input type="checkbox"> Clear unused media to maintain project efficiency.</li>
             <li><input type="checkbox"> Ensure all necessary media in the After Effects project is linked, then select the ‘Main Composition’.</li>
